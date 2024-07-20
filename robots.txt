@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lahambap.github.io/sitemap
+Sitemap: https://lahambap.github.io/app/sitemap
+Sitemap: https://lahambap.github.io/assets/sitemap
+Sitemap: https://lahambap.github.io/css/sitemap
+Sitemap: https://lahambap.github.io/includes/sitemap
+Sitemap: https://lahambap.github.io/item/sitemap
+Sitemap: https://lahambap.github.io/src/sitemap
